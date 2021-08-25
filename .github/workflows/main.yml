@@ -23,7 +23,7 @@ jobs:
       continue-on-error: true
       
     - name: Cd
-      run: cd D:\a\Vizsgaremek\Vizsgaremek\target
+      run: cd D:\a\DataDrivenFramework\DataDrivenFramework\target
       
     - name: Init
       run: git init
