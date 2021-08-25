@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3,667">
+           time="4.039">
   <properties />
   
   
-            <testcase name="listUsers" time="1,616" classname="testCases.ListRegisteredUsersTests" />
-                <testcase name="traversingList" time="2,051" classname="testCases.ListRegisteredUsersTests" />
+            <testcase name="listUsers" time="1.814" classname="testCases.ListRegisteredUsersTests" />
+                <testcase name="traversingList" time="2.225" classname="testCases.ListRegisteredUsersTests" />
       
 </testsuite>

@@ -4,13 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4,648">
+           time="4.196">
   <properties />
   
   
-            <testcase name="unsuccessfulLogin" time="0,346" classname="testCases.LoginTests" />
-                <testcase name="successfulLogin" time="2,033" classname="testCases.LoginTests" />
-                <testcase name="successfulLogin" time="1,891" classname="testCases.LoginTests" />
-                <testcase name="unsuccessfulLogin" time="0,378" classname="testCases.LoginTests" />
+            <testcase name="successfulLogin" time="1.024" classname="testCases.LoginTests" />
+                <testcase name="unsuccessfulLogin" time="0.442" classname="testCases.LoginTests" />
+                <testcase name="successfulLogin" time="2.130" classname="testCases.LoginTests" />
+                <testcase name="unsuccessfulLogin" time="0.600" classname="testCases.LoginTests" />
       
 </testsuite>
