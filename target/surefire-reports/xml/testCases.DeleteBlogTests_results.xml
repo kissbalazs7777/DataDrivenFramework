@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="22.121">
+           time="20.588">
   <properties />
   
   
-            <testcase name="deleteBlog_CheckIfBlog_s_PageDeleted" time="6.200" classname="testCases.DeleteBlogTests" />
-                <testcase name="deleteBlog_CheckIfVanishedFromAdminPage" time="15.921" classname="testCases.DeleteBlogTests" />
+            <testcase name="deleteBlog_CheckIfBlog_s_PageDeleted" time="5.423" classname="testCases.DeleteBlogTests" />
+                <testcase name="deleteBlog_CheckIfVanishedFromAdminPage" time="15.165" classname="testCases.DeleteBlogTests" />
       
 </testsuite>

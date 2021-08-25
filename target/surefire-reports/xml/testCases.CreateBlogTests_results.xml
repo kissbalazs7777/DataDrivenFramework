@@ -4,12 +4,12 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="12.859">
+           time="10.249">
   <properties />
   
   
-            <testcase name="createBlogSuccess" time="7.410" classname="testCases.CreateBlogTests" />
-                <testcase name="createBlogUrlAlreadyTaken" time="2.262" classname="testCases.CreateBlogTests" />
-                <testcase name="createBlogLeavingBlankField" time="3.187" classname="testCases.CreateBlogTests" />
+            <testcase name="createBlogSuccess" time="6.241" classname="testCases.CreateBlogTests" />
+                <testcase name="createBlogUrlAlreadyTaken" time="1.809" classname="testCases.CreateBlogTests" />
+                <testcase name="createBlogLeavingBlankField" time="2.199" classname="testCases.CreateBlogTests" />
       
 </testsuite>

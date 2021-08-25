@@ -4,12 +4,12 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="23.901">
+           time="20.644">
   <properties />
   
   
-            <testcase name="editBlogUnSuccessTakenUrl" time="6.422" classname="testCases.EditBlogTests" />
-                <testcase name="editBlogSuccess" time="11.289" classname="testCases.EditBlogTests" />
-                <testcase name="editBlogUnSuccessBlankField" time="6.190" classname="testCases.EditBlogTests" />
+            <testcase name="editBlogUnSuccessTakenUrl" time="5.531" classname="testCases.EditBlogTests" />
+                <testcase name="editBlogSuccess" time="9.704" classname="testCases.EditBlogTests" />
+                <testcase name="editBlogUnSuccessBlankField" time="5.409" classname="testCases.EditBlogTests" />
       
 </testsuite>

@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="2.372">
+           time="1.594">
   <properties />
   
   
-            <testcase name="afterLogoutTryGoBackToPreviusPage" time="1.256" classname="testCases.LogoutTests" />
-                <testcase name="logOut" time="1.116" classname="testCases.LogoutTests" />
+            <testcase name="afterLogoutTryGoBackToPreviusPage" time="0.793" classname="testCases.LogoutTests" />
+                <testcase name="logOut" time="0.801" classname="testCases.LogoutTests" />
       
 </testsuite>
