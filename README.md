@@ -1,6 +1,8 @@
 [Link to Extent Report](https://kissbalazs7777.github.io/Vizsgaremek)  
 [Link to reportNG](https://kissbalazs7777.github.io/Vizsgaremek/target/surefire-reports/html/index.html)  
 
+Manuális teszt esetek: manual_test_cases.xlsx fájlban megtalálhatóak!  
+
 Tesztek:  
 -Regisztráció  
 -Bejelentkezés  
