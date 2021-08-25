@@ -1,5 +1,5 @@
-[Link to Extent Report](https://kissbalazs7777.github.io/Vizsgaremek)  
-[Link to reportNG](https://kissbalazs7777.github.io/Vizsgaremek/target/surefire-reports/html/index.html)  
+[Link to Extent Report](https://kissbalazs7777.github.io/DataDrivenFramework)  
+[Link to reportNG](https://kissbalazs7777.github.io/DataDrivenFramework/target/surefire-reports/html/index.html)  
 
 Manuális teszt esetek: manual_test_cases.xlsx fájlban megtalálhatóak!  
 
