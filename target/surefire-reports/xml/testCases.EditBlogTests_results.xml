@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Edit Blog tests"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22,065">
+  <properties />
+  
+  
+            <testcase name="editBlogUnSuccessBlankField" time="5,770" classname="testCases.EditBlogTests" />
+                <testcase name="editBlogUnSuccessTakenUrl" time="5,923" classname="testCases.EditBlogTests" />
+                <testcase name="editBlogSuccess" time="10,372" classname="testCases.EditBlogTests" />
+      
+</testsuite>

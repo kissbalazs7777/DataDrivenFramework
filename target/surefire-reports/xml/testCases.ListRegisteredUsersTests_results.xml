@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Data listing tests"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3,667">
+  <properties />
+  
+  
+            <testcase name="listUsers" time="1,616" classname="testCases.ListRegisteredUsersTests" />
+                <testcase name="traversingList" time="2,051" classname="testCases.ListRegisteredUsersTests" />
+      
+</testsuite>

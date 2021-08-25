@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registration tests"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6,177">
+  <properties />
+  
+  
+            <testcase name="registerUnsuccess" time="1,635" classname="testCases.RegistrationTests" />
+                <testcase name="registerSuccess" time="2,312" classname="testCases.RegistrationTests" />
+                <testcase name="registerSuccess" time="2,230" classname="testCases.RegistrationTests" />
+      
+</testsuite>
